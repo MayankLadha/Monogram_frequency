@@ -1,3 +1,7 @@
+###########################
+# Written by Mayank Ladha #
+###########################
+
 import xlsxwriter
 
 workbook = xlsxwriter.Workbook('Single_Letter_Frequency.xlsx')
