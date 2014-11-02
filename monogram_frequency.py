@@ -1,6 +1,7 @@
-###########################
-# Written by Mayank Ladha #
-###########################
+########################################
+# Written by: Mayank Ladha             #
+# email:      mayankladha27@gmail.com  #
+########################################
 
 import xlsxwriter
 
