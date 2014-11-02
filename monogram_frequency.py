@@ -15,7 +15,7 @@ freq = {}
 total = 0
 
 for x in alpha:
-    freq[x] = 0;
+    freq[x] = 0
 
 while b:
     hs = fo.read(100)
@@ -72,4 +72,4 @@ print ("\nTotal Character Count: "+str(total))
 
 workbook.close()
 
-print ("Report successfully writtern to Single_Letter_Frequency.xlsx")
+print ("Report successfully writtern to Monogram_Frequency.xlsx")
